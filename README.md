@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0060-permutation-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
