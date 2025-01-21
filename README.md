@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0059-spiral-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
