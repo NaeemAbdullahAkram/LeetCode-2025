@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
