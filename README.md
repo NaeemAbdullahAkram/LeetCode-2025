@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0077-combinations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
