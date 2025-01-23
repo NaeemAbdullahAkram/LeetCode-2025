@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
 ## Sorting
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0059-spiral-matrix-ii) |
+| [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
 ## Simulation
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
 ## Backtracking
 |  |
@@ -56,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0191-number-of-1-bits) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
