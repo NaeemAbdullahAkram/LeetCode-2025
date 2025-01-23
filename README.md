@@ -71,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
