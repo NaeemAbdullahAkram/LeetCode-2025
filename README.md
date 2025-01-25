@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -19,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0059-spiral-matrix-ii) |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0059-spiral-matrix-ii) |
 ## Math
 |  |
