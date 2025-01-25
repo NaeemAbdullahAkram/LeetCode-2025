@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0097-interleaving-string) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0096-unique-binary-search-trees) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
