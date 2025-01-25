@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0053-maximum-subarray) |
 | [0095-unique-binary-search-trees-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0097-interleaving-string) |
