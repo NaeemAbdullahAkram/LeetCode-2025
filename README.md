@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0068-text-justification) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0097-interleaving-string) |
 ## Stack
