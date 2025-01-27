@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0073-set-matrix-zeroes) |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
 ## Simulation
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0055-jump-game) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
