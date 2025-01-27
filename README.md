@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0074-search-a-2d-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
 ## Simulation
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0074-search-a-2d-matrix) |
 | [0095-unique-binary-search-trees-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
