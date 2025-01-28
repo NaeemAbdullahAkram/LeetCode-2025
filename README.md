@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0095-unique-binary-search-trees-ii) |
 ## Divide and Conquer
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0191-number-of-1-bits) |
 ## Depth-First Search
