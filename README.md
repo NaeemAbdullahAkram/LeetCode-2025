@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0090-subsets-ii) |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0095-unique-binary-search-trees-ii) |
 ## Divide and Conquer
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0191-number-of-1-bits) |
 ## Depth-First Search
