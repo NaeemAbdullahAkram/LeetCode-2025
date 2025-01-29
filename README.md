@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0097-interleaving-string) |
 ## Stack
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0097-interleaving-string) |
