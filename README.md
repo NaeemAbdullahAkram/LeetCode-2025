@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0090-subsets-ii) |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0084-largest-rectangle-in-histogram) |
 ## Graph
 |  |
 | ------- |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0076-minimum-window-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
