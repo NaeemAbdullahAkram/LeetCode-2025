@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0684-redundant-connection](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
@@ -164,11 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0097-interleaving-string) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Greedy
 |  |
 | ------- |
