@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0090-subsets-ii) |
+| [0854-making-a-large-island](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0074-search-a-2d-matrix) |
+| [0854-making-a-large-island](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1876-map-of-highest-peak) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0684-redundant-connection](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NaeemAbdullahAkram/LeetCode-2025/tree/master/2764-maximum-number-of-fish-in-a-grid) |
